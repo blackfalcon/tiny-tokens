@@ -1,0 +1,15 @@
+{
+  "name": "@blackfalcon/tiny-tokens",
+  "description": "Token all the things",
+  "version": "0.1.4",
+  "author": "A dude with codes",
+  "license": "MIT",
+  "keywords": [
+    "learning",
+    "test-npm"
+  ],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/blackfalcon/tiny-tokens"
+  }
+}
